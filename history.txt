@@ -1,0 +1,11 @@
+Änderungen seit August 2015
+
+09.12.15 /bl - git/github eingeführt
+04.12.15 /bl - Bessere Kontraste
+25.11.15 /bl - WerRuftAn start/ende
+19.11.15 /bl - Datum rechts oben
+18.11.15 /bl - NewsZahl anzeigen
+05.11.15 /bl - Umbenennen & Löschen
+05.11.15 /bl - PDFLaufzettel: Clear
+15.10.15 /bl - Suche news:Thema 
+14.08.15 /bl - ProgStarter - VS2015
