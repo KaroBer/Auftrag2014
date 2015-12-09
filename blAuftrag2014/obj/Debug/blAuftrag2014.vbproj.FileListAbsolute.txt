@@ -1,0 +1,16 @@
+c:\users\bela\documents\visual studio 2013\Projects\blAuftrag2014\blAuftrag2014\bin\Debug\blAuftrag2014.exe.config
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\bin\Debug\blAuftrag2014.exe
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\bin\Debug\blAuftrag2014.pdb
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\bin\Debug\blAuftrag2014.xml
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\MainWindow.baml
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\MainWindow.g.vb
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\Application.g.vb
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\blAuftrag2014_MarkupCompile.cache
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\blAuftrag2014.g.resources
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\blAuftrag2014.Resources.resources
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\blAuftrag2014.vbproj.GenerateResource.Cache
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\blAuftrag2014.exe
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\blAuftrag2014.xml
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\obj\Debug\blAuftrag2014.pdb
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\bin\Debug\blAuftrag2014.exe.CodeAnalysisLog.xml
+C:\Users\Bela\Documents\Visual Studio 2013\Projects\blAuftrag2014\blAuftrag2014\bin\Debug\blAuftrag2014.exe.lastcodeanalysissucceeded

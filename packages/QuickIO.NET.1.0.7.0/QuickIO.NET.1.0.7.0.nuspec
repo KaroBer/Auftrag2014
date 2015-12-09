@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>QuickIO.NET</id>
+    <version>1.0.7.0</version>
+    <title>Quick IO Access for .NET</title>
+    <authors>Benjamin Abt</authors>
+    <owners>Benjamin Abt</owners>
+    <licenseUrl>http://quickio.codeplex.com/license</licenseUrl>
+    <projectUrl>http://quickio.net/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>QuickIO.NET is an extension for the .NET Framework to offer faster file operations.</description>
+    <summary>QuickIO.NET is an extension for the .NET Framework to offer faster file operations.</summary>
+    <releaseNotes>Fixed Service behavior of TotalBytes and Workers</releaseNotes>
+    <copyright>Benjamin Abt 2014</copyright>
+  </metadata>
+</package>
