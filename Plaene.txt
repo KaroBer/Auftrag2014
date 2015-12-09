@@ -1,0 +1,4 @@
+Pfade in Konfigurationsdatei auslagern
+Status der Aufträge in Listbox einbauen (Farben / Icons)
+Rechnungstexte so anpassen, dass sie direkt verwendet werden können
+Vor- und Zurückblättern in Balkengrafiken
