@@ -508,7 +508,7 @@ Module blHilfsModul2014
             ret = "Freitag"
         ElseIf wotag = 6 Then
             ret = "Samstag"
-        ElseIf wotag = 7 Then
+        ElseIf wotag = 0 Then
             ret = "Sonntag"
         End If
         Return ret

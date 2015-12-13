@@ -1007,8 +1007,7 @@ Class MainWindow
         kwNewsZahlGeaendert(NewsZaehlenKW(AktHeft, aktKWMo, aktKWSo))
 
         ' Tag, Datum
-        Dim tag As String = WochentagDeutsch(Today.DayOfWeek)
-        lbl_heute.Content = tag & ", " & Today.ToShortDateString
+        lbl_heute.Content = WochentagDeutsch(Today.DayOfWeek) & ", " & Today.ToShortDateString
 
         WerRuftAnProc = Process.Start(blConst.PfadZuWERruftAN)
     End Sub
